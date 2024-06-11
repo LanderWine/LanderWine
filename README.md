@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LanderWine
-- 👀 I’m interested in hacks
+- 👀 I’m interested in hackatons
 - 🌱 I’m currently learning for an entrepreneur
 - 💞️ Looking for cooperation with programmers
 - 📫 How to reach me - tg @LanderWine
